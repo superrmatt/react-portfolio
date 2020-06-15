@@ -1,0 +1,46 @@
+.wrapper {
+  font-family: "Questrial", sans-serif;
+  display: flex;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: -35px;
+}
+
+a {
+  color: #807e7e;
+}
+
+a:hover {
+  opacity: 0.5;
+  color: rgb(117, 97, 207);
+}
+
+.btn {
+  background-color: #f1eab0;
+  color: black;
+}
+
+.btn:hover {
+  background-color: rgb(207, 230, 227);
+}
+
+p {
+  font-size: 13pt;
+}
+
+.bio-imgs {
+  border-radius: 10px;
+  float: left;
+  height: 300px;
+  width: auto;
+  margin: 0px 15px 0px 0px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.grad {
+  border-radius: 10px;
+  float: right;
+  width: 300px;
+  margin: 10px 0px 0px 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
