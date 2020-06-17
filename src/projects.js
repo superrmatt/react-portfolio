@@ -24,7 +24,7 @@ export default [
     image: require("./images/graphs.JPG"),
     card_title: "Fun With Graphs",
     card_text:
-      "Fun with graphs is my attempt at implementing the most fascinating data structure: graphs. Using Java, I have implemented a number of types of graphs, and subsequently, trees, and their algorithms. This is not a deployable application, just data structures and algorithms",
+      "Fun with graphs is my attempt at implementing the most fascinating data structure: graphs. Using Java, I have implemented a number of types of graphs, and subsequently, trees, and their algorithms. This is not a deployable application, just data structures and algorithms.",
       technologies: [  ],
     project_repo: "https://github.com/superrmatt/funWithGraphs",
     deployed_project: "https://github.com/superrmatt/funWithGraphs"
