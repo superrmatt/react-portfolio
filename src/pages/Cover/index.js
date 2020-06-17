@@ -8,6 +8,7 @@ function Cover() {
       <h1> Matt Dambra</h1>
       <br />
       <h3>Software Developer | Cybersecurity Jedi</h3>
+      <h4>Execlsior: ever upward, ever onward, ever forward.</h4>
 
       <Link to="/About" className="coverBtn">
         Learn More
