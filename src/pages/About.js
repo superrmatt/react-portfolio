@@ -32,7 +32,7 @@ function About() {
                 <img src={Headshot} className="bio-imgs" alt="headshot" />
                 &nbsp;&nbsp; &nbsp;&nbsp; As a software developer, I love few things more than finding elegant, algorithmic solutions to complex problems.
               </p>
-              <p>
+              <p>npm
                 &nbsp;&nbsp; &nbsp;&nbsp; As a professional with a background in cyberseucrity, I strive to ensure the inteigrity, privacy, and security of data, applications, and their users.
               </p>
               <p>
