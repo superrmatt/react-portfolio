@@ -39,13 +39,13 @@ function About() {
                 &nbsp;&nbsp; &nbsp;&nbsp; As an avid outdoorsman, I spend most weekends away pursuing the next outdoor thrill; be it kayaking the many rivers and lakes, or pitching a tent at a local campsite with some friends.
               </p>
               <p>
-                &nbsp;&nbsp; &nbsp;&nbsp;As an amateur historian, I love revealing bits and pieces of the story we all collectively share to others around me.
+                &nbsp;&nbsp; &nbsp;&nbsp; As an amateur historian, I love revealing bits and pieces of the story we all collectively share to others around me.
               </p>
               <p>
-                &nbsp;&nbsp; &nbsp;&nbsp;As a musician, I enjoy bringing people together to revel in what we love most: the little things.
+                &nbsp;&nbsp; &nbsp;&nbsp; As a musician, I enjoy bringing people together to revel in what we love most: the little things.
               </p>
               <p>
-                &nbsp;&nbsp; &nbsp;&nbsp;My programming career started at the age of fifteen, in highschool, when I decided to take a c++ programming course offered through SUNY Albany. I instantly fell in love. I have since pursued a degree in computer science at the University at Buffalo. In 2015 I transferred to SUNY Plattsburgh, with the goal to further hone my CS degree into a computer security degree. In May, 2017 I graduated from SUNY Plattsburgh with a BS in Computer Security, with concentrations in intrusion detection, and cyber threat analysis modeling, with honors.
+                &nbsp;&nbsp; &nbsp;&nbsp; My programming career started at the age of fifteen, in highschool, when I decided to take a c++ programming course offered through SUNY Albany. I instantly fell in love. I have since pursued a degree in computer science at the University at Buffalo. In 2015 I transferred to SUNY Plattsburgh, with the goal to further hone my CS degree into a computer security degree. In May, 2017 I graduated from SUNY Plattsburgh with a BS in Computer Security, with concentrations in intrusion detection, and cyber threat analysis modeling, with honors.
                 <img className="grad" src={grad} alt="Graduation" />
               </p>
               <p>
