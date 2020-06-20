@@ -6,6 +6,7 @@ function Form() {
     <form
       action="mailto:mpdambra@gmail.com"
       method="post"
+      type="text/plain"
     >
       Name:<br></br>
       <input type="text" className="name" name="name" />
