@@ -18,7 +18,7 @@ function Form() {
       <input className="messagebox" type="text" name="comment" />
       <br></br>
       <input className="btn" type="submit" value="Submit" />
-      <input className="btn" type="reset" value="Reset" />
+      <input className="btn" type="reset" value="Clear" />
     </form>
   );
 }
