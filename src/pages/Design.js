@@ -28,7 +28,7 @@ class Design extends Component {
                 <h2>Development Projects</h2>
                 <hr />
                 <p>
-                Below is a sample of colelctive works. A full listing of projects and their repositories/deployed applications can be found on my
+                Below is a sample of collective works. A full listing of projects and their repositories/deployed applications can be found on my
                   <a
                     href="https://github.com/superrmatt"
                     rel="noopener noreferrer"
